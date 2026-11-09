@@ -8,7 +8,7 @@
 
 Preferences preferences;
 
-const char* ssid = YOUR_WIFI_NAME";
+const char* ssid = "YOUR_WIFI_NAME";
 const char* password = "YOUR_WIFI_PASSWORD";
 
 const int relayPin = 25;
