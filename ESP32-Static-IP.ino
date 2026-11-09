@@ -8,8 +8,8 @@
 
 Preferences preferences;
 
-const char* ssid = "IoTCKP_1";
-const char* password = "IoT@2025";
+const char* ssid = YOUR_WIFI_NAME";
+const char* password = "YOUR_WIFI_PASSWORD";
 
 const int relayPin = 25;
 const int relayPin1 = 27;
